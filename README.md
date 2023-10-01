@@ -1,16 +1,17 @@
-### Hi there 👋
+### MannOffc
 
-<!--
-**MannOffc/MannOffc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/MannOffc/MannOffc/">Hi I'm MannOffc👋
+<img src="https://telegra.ph/file/0d079bed7f7e321e41d62.jpg">
+<h3>🌠I'm MannOffc</h3>
+<h3>🎉15 years old</h3>
+<h3>🎏I'm Not Progamers</h3>
 
-Here are some ideas to get you started:
+## MyBotz🎐
+<img src="https://telegra.ph/file/df6f13cbfd27411073893.jpg)https://telegra.ph/file/df6f13cbfd27411073893.jpg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Social Media
+<a href="tiktok.com/@hyugimura"><img src="https://telegra.ph/file/9be1fef5b28a7a1ae6946.jpg)https://telegra.ph/file/9be1fef5b28a7a1ae6946.jpg"></a>
+
+## Support me by making a donation
+<h3>💳089509419214/Gopay</h3>
+
