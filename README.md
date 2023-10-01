@@ -1,5 +1,3 @@
-### MannOffc
-
 <h2 align="center"><a href="https://github.com/MannOffc/MannOffc/">Hi I'm MannOffc👋</a></h2>
 <img src="https://telegra.ph/file/0d079bed7f7e321e41d62.jpg">
 <h3>🌠I'm MannOffc</h3>
