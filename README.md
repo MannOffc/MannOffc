@@ -1,9 +1,9 @@
 <h2 align="center"><a href="https://github.com/MannOffc/MannOffc/">Hi I'm MannOffc👋</a></h2>
 <img src="https://telegra.ph/file/0d079bed7f7e321e41d62.jpg">
 <p align="center">
--🌠My Name Is MannOffc
--🎉I'm 15 years old
--🎏I'm Not Progamers
+🌠My Name Is MannOffc
+🎉I'm 16 years old
+🎏I'm Not Progamers
 </p>
 <h3 align="center">You Can Call Me MannOffc or Hyugimura</h3>
 
@@ -20,5 +20,5 @@
 </p>
 
 ### Support me by making a donation
-```💳089509419214/Gopay```
+```💳 https://saweria.co/mannr```
 
