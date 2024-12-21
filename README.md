@@ -1,4 +1,21 @@
-<h2 align="center"><a href="https://github.com/MannOffc/MannOffc/">Hi I'm MannOffc👋</a></h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+MannRzyne.;i'am+beginner+developer.">
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://github.com/MannOffc"><img src="https://github-readme-stats.vercel.app/api?username=MannOffc&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MannOffc"><img src="https://github-readme-streak-stats.herokuapp.com?user=MannOffc&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MannOffc"><img src="https://github-profile-trophy.vercel.app/?username=MannOffc&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
+</p>
+
+<!-- <h2 align="center"><a href="https://github.com/MannOffc/MannOffc/">Hi I'm MannOffc👋</a></h2>
 <img src="https://telegra.ph/file/0d079bed7f7e321e41d62.jpg">
 <p align="center">
 🌠My Name Is MannOffc
@@ -20,5 +37,4 @@
 </p>
 
 ### Support me by making a donation
-```💳 https://saweria.co/mannr```
-
+```💳 https://saweria.co/mannr``` -->
